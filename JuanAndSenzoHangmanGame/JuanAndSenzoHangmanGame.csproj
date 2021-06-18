@@ -58,6 +58,42 @@
     <Compile Include="Question1.Designer.cs">
       <DependentUpon>Question1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Question10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Question10.Designer.cs">
+      <DependentUpon>Question10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Question11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Question11.Designer.cs">
+      <DependentUpon>Question11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Question12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Question12.Designer.cs">
+      <DependentUpon>Question12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Question7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Question7.Designer.cs">
+      <DependentUpon>Question7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Question8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Question8.Designer.cs">
+      <DependentUpon>Question8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Question9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Question9.Designer.cs">
+      <DependentUpon>Question9.cs</DependentUpon>
+    </Compile>
     <Compile Include="SplashScreen.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -81,6 +117,24 @@
     </Compile>
     <EmbeddedResource Include="Question1.resx">
       <DependentUpon>Question1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question10.resx">
+      <DependentUpon>Question10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question11.resx">
+      <DependentUpon>Question11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question12.resx">
+      <DependentUpon>Question12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question7.resx">
+      <DependentUpon>Question7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question8.resx">
+      <DependentUpon>Question8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question9.resx">
+      <DependentUpon>Question9.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="SplashScreen.resx">
       <DependentUpon>SplashScreen.cs</DependentUpon>

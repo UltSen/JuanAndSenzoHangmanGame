@@ -21,5 +21,10 @@ namespace JuanAndSenzoHangmanGame
         {
             Application.Exit();
         }
+
+        private void Question1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
